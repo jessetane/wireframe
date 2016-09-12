@@ -1,7 +1,7 @@
 {
   "name": "wireframe",
   "version": "1.0.1",
-  "description": "Create a wireframe from a simplical complex without duplicate edges",
+  "description": "Create a wireframe from a simplicial complex without duplicate edges",
   "devDependencies": {
     "bunny": "^1.0.1",
     "gl-wireframe": "^1.0.1"

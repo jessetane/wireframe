@@ -1,5 +1,5 @@
 # wireframe
-Create a wireframe from a simplical complex without duplicate edges.
+Create a wireframe from a simplicial complex without duplicate edges.
 
 ## Why
 [gl-wireframe](https://github.com/hughsk/gl-wireframe) is faster and more memory efficient, but includes duplicate edges.
