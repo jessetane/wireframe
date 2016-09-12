@@ -1,0 +1,11 @@
+{
+  "name": "wireframe",
+  "version": "0.0.0",
+  "description": "Create a wireframe from a simplical complex without duplicate edges",
+  "devDependencies": {
+    "bunny": "^1.0.1",
+    "gl-wireframe": "^1.0.1"
+  },
+  "author": "jesse.tane@gmail.com",
+  "license": "MIT"
+}
