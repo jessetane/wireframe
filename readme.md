@@ -1,4 +1,4 @@
-# loft
+# wireframe
 Create a wireframe from a simplical complex without duplicate edges.
 
 ## Why
