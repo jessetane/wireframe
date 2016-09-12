@@ -1,6 +1,6 @@
 {
   "name": "wireframe",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Create a wireframe from a simplicial complex without duplicate edges",
   "devDependencies": {
     "bunny": "^1.0.1",
